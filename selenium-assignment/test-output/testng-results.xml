@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-07T20:40:20 IST" name="Default suite" finished-at="2026-04-07T20:40:42 IST" duration-ms="21868">
+    <groups>
+    </groups>
+    <test started-at="2026-04-07T20:40:20 IST" name="Default test" finished-at="2026-04-07T20:40:42 IST" duration-ms="21868">
+      <class name="tests.FirstTest">
+        <test-method signature="purchaseFlow()[pri:0, instance:tests.FirstTest@4d5d943d]" started-at="2026-04-07T20:40:20 IST" name="purchaseFlow" finished-at="2026-04-07T20:40:42 IST" duration-ms="21801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseFlow -->
+      </class> <!-- tests.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
