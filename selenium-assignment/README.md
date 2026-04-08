@@ -1,39 +1,38 @@
 # Selenium Automation Assignment
 
 ## Tech Stack
-
 - Java
-
 - Selenium WebDriver
-
 - TestNG
+- Rest Assured
+- Maven
 
-- RestAssured
+## Test Cases Covered
 
-## Test Coverage
+### Case 1 - Purchase Flow
+- Login using credentials from JSON
+- Add items to cart
+- Validate cart count
+- Complete checkout
 
-- Case 1: End-to-end purchase flow with JSON test data
+### Case 2 - Login Error Validation
+- Validate error message
+- Footer validation
 
-- Case 2: Error validation and footer verification
+### Case 3 - Rich Text Editor
+- Enter formatted text
+- Validate content
 
-- Case 3: Rich text editor validation
+### Case 4 - iFrame Handling
+- Switch iframe
+- Handle new tab
+- Form submission
 
-- Case 4: iFrame and tab handling
-
-- Case 5: REST API testing and response validation
-
-## Key Highlights
-
-- Data-driven testing using JSON
-
-- Handling dynamic elements and popups
-
-- iFrame and multiple window handling
-
-- API validation with structured parsing
+### Case 5 - REST API Testing
+- GET /users
+- Print name & email
+- Validate email format
 
 ## How to Run
-
-- Run using TestNG
-
-- All tests located in 'test' package
+- Import as Maven project
+- Run TestNG tests

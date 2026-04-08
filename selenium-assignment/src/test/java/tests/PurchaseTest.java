@@ -12,7 +12,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.Duration;
 
-public class FirstTest {
+public class PurchaseTest {
 
     @Test
     public void purchaseFlow() throws Exception {

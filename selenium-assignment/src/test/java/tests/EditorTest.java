@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 import java.time.Duration;
 
-public class ThirdTest {
+public class EditorTest {
 
     @Test
     public void case3Test() throws InterruptedException {

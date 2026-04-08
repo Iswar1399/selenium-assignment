@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.Map;
 
-public class FifthTest {
+public class ApiTest {
 
     @Test
     public void case5Test() {

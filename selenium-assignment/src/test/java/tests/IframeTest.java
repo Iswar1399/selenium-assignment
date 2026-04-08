@@ -13,7 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import java.time.Duration;
 import java.util.List;
 
-public class FourthTest {
+public class IframeTest {
 
     @Test
     public void case4Test() throws InterruptedException {
